@@ -23,7 +23,12 @@ This app utilizes several key features introduced in iOS 16:
 
 ## Screenshots
 
-_Add screenshots here to demonstrate the custom navigation, list view, grid view, sheet presentation, and Safari integration._
+<img src="https://github.com/user-attachments/assets/539fe75a-50a4-4b9c-bc54-b519ab976787" alt="Image 6" width="300"/>
+<img src="https://github.com/user-attachments/assets/bdc8a977-95e3-4551-ab72-4c748b103c07" alt="Image 5" width="300"/>
+<img src="https://github.com/user-attachments/assets/e5e4d786-e6ab-4534-aa9a-80ed284f1a11" alt="Image 4" width="300"/>
+<img src="https://github.com/user-attachments/assets/bc872f00-cbc1-44a8-8b88-e84ecc59cc50" alt="Image 3" width="300"/>
+<img src="https://github.com/user-attachments/assets/cbdbc232-ebf5-4da9-8af9-8370de861dc5" alt="Image 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/9e21565e-aa90-49be-b30e-c27f789aa946" alt="Image 1" width="300"/>
 
 ## Installation
 
